@@ -3,7 +3,7 @@
   <img src="https://github.com/Gabriela-Milusheva/LogicalExpressionInterpreter_SAA/blob/master/SAA/Resources/logo.png" alt="GitHub Logo" width="100">
 </p>
 
-## -Synthesis and Analysis of Algorithms coursework
+## -Synthesis and Analysis of Algorithms (SAA) coursework
 
 The Logical Expression Interpreter is an application designed to handle logical functions, allowing users to create, solve, analyze, and visualize logical expressions and truth tables. The program is implemented in C# language with a Windows Forms graphical user interface.
 
