@@ -83,7 +83,7 @@ From the File menu we can:
 
 <img src="https://github.com/Gabriela-Milusheva/LogicalExpressionInterpreter_SAA/blob/master/SAA/Resources/solve.jpg" alt="Solve">
 
-The SOLVE command allows the user to solve a chosen defined logic function with boolean values (0 or 1)
+The SOLVE command allows the user to solve a chosen defined logic function with boolean values (0 or 1). The algorithm first converts the function's expression notation from infix to postfix (Reverse Polish notation) and then solves the postfix expression. 
 
 _**Example:**_ SOLVE funcX(0,1)
 
