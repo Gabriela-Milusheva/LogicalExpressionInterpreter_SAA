@@ -18,7 +18,7 @@ All commands info tooltip:
 
 
 ## 🗺️ Content
-1. [Adding and removing logical functions // DEFINE & REMOVE Commands](#define)
+1. [Adding and removing logical functions](#define)
 2. [Saving and reading functions from a file](#file)
 3. [Solving a function for given parameters](#solve)
 4. [Creating a truth table for a logic function](#all)
