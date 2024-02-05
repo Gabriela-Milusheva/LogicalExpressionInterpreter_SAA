@@ -21,7 +21,7 @@ All commands info tooltip:
 1. [Adding and removing logical functions](#define)
 2. [Saving and reading functions from a file](#file)
 3. [Solving a function for given parameters](#solve)
-4. [Creating a truth table for a logic function](#all)
+4. [Creating a truth table for a logical function](#all)
 5. [Finding a logical function by its truth table](#find)
 6. [Function's binary tree visualization](#visualize)
 
@@ -88,7 +88,7 @@ The SOLVE command allows the user to solve a chosen defined logic function with 
 _**Example:**_ SOLVE funcX(0,1)
 
 
-## 🏗️ 4. Creating a truth table for a logic function <a name="all"></a>
+## 🏗️ 4. Creating a truth table for a logical function <a name="all"></a>
 
 ### - ALL Command
 
